@@ -1,0 +1,463 @@
+{
+  "name": "Великий алхимик",
+  "description": "Содержит рецепты для создания очень редких алхимических составов",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Инструменты алхимика",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Чернила (Легендарные)",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Флакон чернил объемом 1 унция, используемых для написания. Достаточно для создания свитков заклинаний 9 уровня.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.bRlnkLX2Mct6510N",
+              "quantity": 1,
+              "name": "Чернила (Очень редкие)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.NsUbKTdqpynBix4B",
+              "quantity": "3",
+              "name": "Масло Ивовой Тени"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.4jwQ49eXEEYLBVs6",
+              "quantity": 1,
+              "name": "Чернила (Легендарные)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Масло остроты",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Это прозрачное, желеобразное масло блестит крошечными, ультратонкими серебристыми частицами. Масло может покрыть одно оружие для рубящих или колющих атак или до 5 единиц боеприпасов для рубящих или колющих атак. Нанесение масла занимает 1 минуту. В течение 1 часа покрытый предмет становится магическим и получает бонус +3 к броскам атаки и урона.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.KCTFc0Hggqgjasrp",
+              "quantity": 1,
+              "name": "Ихор Анхега"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.nL0034PbK6qG3bm6",
+              "quantity": 1,
+              "name": "Сильверторн"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.H90uZW2VvmWDl2ji",
+              "quantity": 1,
+              "name": "Масло остроты"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье полета",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Когда вы выпиваете это зелье, вы получаете скорость полета, равную вашей скорости передвижения, на 1 час и можете зависать в воздухе. Если вы находитесь в воздухе, когда зелье заканчивает действие, вы падаете, если у вас нет других средств оставаться в воздухе. Прозрачная жидкость этого зелья плавает на верхней части флакона и содержит облачные белые примеси.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.3VqjOeCMi3syzG5r",
+              "quantity": 1,
+              "name": "Огонек Элементаля Воздуха"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.it2KMzZbA1Huvgxm",
+              "quantity": 1,
+              "name": "Поющая Крапива"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.AgnAXfsrUks7OVvW",
+              "quantity": 1,
+              "name": "Зелье полета"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье невидимости",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Контейнер этого зелья выглядит пустым, но ощущается так, как будто в нем есть жидкость. Когда вы его выпиваете, вы становитесь невидимыми на 1 час. Все, что вы носите или несете, становится невидимым вместе с вами. Эффект заканчивается, если вы атакуете или накладываете заклинание.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.k4DAhrrCUu2cavuf",
+              "quantity": 1,
+              "name": "Скрытный Коготь"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.kq1kPFd56PJ6CbuY",
+              "quantity": 1,
+              "name": "Фея Табурет"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.Cvce8JqTuSEkK6Gc",
+              "quantity": 1,
+              "name": "Зелье невидимости"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье долголетия",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Когда вы выпиваете это зелье, ваше физическое возрастное состояние уменьшается на 1d6 + 6 лет, но не ниже 13 лет. Каждый раз, когда вы впоследствии выпиваете зелье долголетия, существует 10% кумулятивного шанса, что вы, наоборот, постареете на 1d6 + 6 лет. В этом янтарном растворе находятся хвост скорпиона, зуб гадюки, мертвая паутина и маленькое сердце, которое, вопреки всем разумным законам, продолжает биться. Эти ингредиенты исчезают, когда зелье открывается.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.Z07pwBZTF8LAc9lP",
+              "quantity": 1,
+              "name": "Сердце Беса"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mJLK2z7uAFJEdEbI",
+              "quantity": 1,
+              "name": "Красный Мухомор"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.ANsO9yct8sUDsbMJ",
+              "quantity": 1,
+              "name": "Зелье долголетия"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье возможностей",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Когда вы выпиваете это прозрачное зелье, вы получаете два Фрагмента Возможности, каждый из которых выглядит как маленькая, сероватая бусинка энергии, следящая за вами и остающаяся в пределах 1 фута от вас все время. Каждый фрагмент длится 8 часов или до использования.\n\nКогда вы делаете бросок атаки, проверку способности или спасбросок, вы можете потратить фрагмент, чтобы прокинуть дополнительный d20 и выбрать, какой из d20 использовать. Альтернативно, когда против вас делается бросок атаки, вы можете потратить фрагмент, чтобы прокинуть d20 и выбрать, какой из d20 использовать: тот, который вы прокинули, или тот, который прокинул атакующий. Если исходный бросок d20 имеет преимущество или недостаток, вы прокидываете ваш d20 после того, как преимущество или недостаток будут применены к исходному броску.\n\nПока у вас есть один или несколько Фрагментов Возможности от этого зелья, вы не можете получить другой Фрагмент Возможности из любого источника.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.k4DAhrrCUu2cavuf",
+              "quantity": 1,
+              "name": "Скрытный Коготь"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.Tcbp9pjDm3T5x9qw",
+              "quantity": 1,
+              "name": "Эктоплазма"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.hyHhK4xn0mpV1E04",
+              "quantity": 1,
+              "name": "Зелье возможностей"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье скорости",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Когда вы выпиваете это зелье, вы получаете эффект заклинания Ускорение на 1 минуту (без концентрации). Жёлтая жидкость в зелье полосата черными линиями и самостоятельно завихряется.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.c9qN52yscyjRUY9a",
+              "quantity": "4",
+              "name": "Орлиный Коготь"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.sVaLvD2DD1FphKQd",
+              "quantity": 1,
+              "name": "Молниеносный Мох"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.z6gcwZ71wujiJcTG",
+              "quantity": 1,
+              "name": "Сахар"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.XVdh6nAcoEFhPPwO",
+              "quantity": 1,
+              "name": "Зелье скорости"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье истинного зрения",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Выпив это зелье, вы получаете истинное зрение с радиусом 120 футов на 1 час.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.kq1kPFd56PJ6CbuY",
+              "quantity": 1,
+              "name": "Фея Табурет"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hSAPG5oUoGTitFgd",
+              "quantity": 1,
+              "name": "Нотические слезы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.OIW91s8ybzNGAIqC",
+              "quantity": 1,
+              "name": "Зелье истинного зрения"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-jar-corked-labeled-purple-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Превосходное зелье маны",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Ярко-синий и насыщенно-пурпурный, усеянный точками белого и серебристого цвета, это зелье напоминает ночное небо. При встряхивании оно излучает мягкий пурпурный свет. После употребления этого зелья, пользователь восстанавливает 8 Очков Восстановления, аналогичных Магическому Восстановлению волшебника, или восстанавливает 8 очков колдовской энергии.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.sumSpCyPOQoJNEHm",
+              "quantity": 1,
+              "name": "Зонтик Пикси"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.nL0034PbK6qG3bm6",
+              "quantity": 1,
+              "name": "Сильверторн"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.NJPzGTDtwmq4Wz2Y",
+              "quantity": 1,
+              "name": "Кровь Дракона"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.xXh2RNZPkGBEUs9A",
+              "quantity": 1,
+              "name": "Ихор Ремораза"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.uB4q6B8ax4ZtjNN3",
+              "quantity": 1,
+              "name": "Превосходное зелье маны"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-potion-blue.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

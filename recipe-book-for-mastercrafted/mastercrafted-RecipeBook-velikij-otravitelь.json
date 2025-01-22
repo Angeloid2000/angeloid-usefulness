@@ -1,0 +1,238 @@
+{
+  "name": "Великий отравитель",
+  "description": "Содержит рецепты для создания очень редких ядов",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Инструменты отравителя",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Сон смерти",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, употребившее этот яд, должно преуспеть в спасброске Телосложения DC 19 или стать отравленным на 24 часа. Отравленное существо выглядит мёртвым, и только успешная проверка Медицины DC 20 может определить обратное.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.LUKIJisHtWQyi635",
+              "quantity": 1,
+              "name": "Освежающий чай"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.H6bcqWefARmebnIZ",
+              "quantity": 1,
+              "name": "Яд Фиолетового Червя"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.d9b4P0LtgRSA7RVL",
+              "quantity": 1,
+              "name": "Сон смерти"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Сущность Ярости",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Коричневое зелье с консистенцией грязи превращается в прозрачное, ярко-красное зелье, если его встряхнуть сильнее, чем лёгким прикосновением. Выпив это зелье, существо получает способность Ярость из класса Варвар на 30 секунд. Если зелье напрямую вступает в контакт с кровью существа через рану или инъекцию, цель должна совершить спасбросок Телосложения DC 16. При успехе цель получает способность Ярость из класса Варвар на 60 секунд. При провале цель принудительно входит в состояние Ярости на 30 секунд и вынуждена атаковать ближайшую цель врукопашную. Начиная со 2-го хода после применения зелья, цель может совершить новый спасбросок Телосложения. При успехе все эффекты заканчиваются. Это зелье не действует на конструкции или нежить.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.NJPzGTDtwmq4Wz2Y",
+              "quantity": 1,
+              "name": "Кровь Дракона"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.0VLwO08sxzl2oppd",
+              "quantity": 1,
+              "name": "Лунный Охотник"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.UkLblXezip6lIxqE",
+              "quantity": 1,
+              "name": "Молниевый Металл"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.drAfHKtiVmC4RxVs",
+              "quantity": 1,
+              "name": "Сущность Ярости"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Слезы Полуночи",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, употребившее этот яд, не испытывает никаких эффектов до наступления полуночи. Если яд не будет нейтрализован до этого времени, существо должно преуспеть в спасброске Телосложения DC 17, получая 31 (9d6) урона ядом при провале или половину этого урона при успехе.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.8tiJocPYxX5IJuIw",
+              "quantity": 1,
+              "name": "Смертельная Шапка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.KCTFc0Hggqgjasrp",
+              "quantity": 1,
+              "name": "Ихор Анхега"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.EC9GS8NkXHpj1tJx",
+              "quantity": 1,
+              "name": "Слезы Полуночи (Проглоченные)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Вода Смерти",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Эта жидкость выглядит, пахнет и на вкус как вода. Даже большинство алхимических и магических тестов не могут отличить её от воды. Только заклинание Идентификация, наложенное на уровне 7 или выше, или детализированный алхимический тест, занимающий 24 часа и стоящий 300 золотых монет, может выявить, что эта жидкость на самом деле является одним из самых смертоносных ядов в существовании.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.XtoN9m7t9NExEcec",
+              "quantity": 1,
+              "name": "Гриб Черная Шляпка"
+            },
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.k4bph8IZwFEpdkPL",
+              "quantity": "3",
+              "name": "Изумрудный туманник"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.wNzDaplJ236RLoVO",
+              "quantity": 1,
+              "name": "Яд Виверны"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.562l3RhNzDHi5glh",
+              "quantity": 1,
+              "name": "Лилия Мечты"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.owWwyMULLrQhjZm3",
+              "quantity": 1,
+              "name": "Хагфингер"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.JV1sE74Bv5wrM4wj",
+              "quantity": 1,
+              "name": "Вода Смерти"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

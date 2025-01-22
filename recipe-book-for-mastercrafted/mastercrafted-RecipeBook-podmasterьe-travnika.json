@@ -1,0 +1,675 @@
+{
+  "name": "Подмастерье травника",
+  "description": "Содержит рецепты для создания редких зелий и мазей",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Набор травника",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Токсины Блэйта",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Этот горький зеленоватый раствор дистиллирован из гриба, родного для бесплодных земель Blightshore. Болезненно зеленое ликер обладает сильными психоделическими свойствами. Если существо не является конструкцией или нежитью, оно, получив дозу Токсины Блэйта, получает преимущество на проверки Интеллекта и Мудрости, а также уязвимость к психическому урону на 1 час. При каждой дозе Токсины Блэйта существо должно успешно пройти спасбросок Телосложения (DC 15), иначе оно отравится на 1d6 часов и получит эффект заклинания путаницы на 1 минуту. Существо-нежить, получившее дозу Токсины Блэйта, получает преимущество на все проверки Ловкости и иммунитет к состоянию Напугано на 1 час.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.NJe8OJhUK1ZWRk20",
+              "quantity": 1,
+              "name": "Скверные Споры"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.sOe9Tb9rDn2IqoNC",
+              "quantity": 1,
+              "name": "Токсины Блэйта"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/materials/liquid-green.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье Бабель",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Младенчески голубое и сильно непрозрачное с чем-то белым, движущимся в нем, едва видимым, и ярко-желтое при встряхивании, это зелье дает способность говорить и понимать, но не читать или писать, выбранный язык в течение 1 часа.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.it2KMzZbA1Huvgxm",
+              "quantity": "2",
+              "name": "Поющая Крапива"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.fUDNv8cLOmo6Pmtf",
+              "quantity": 1,
+              "name": "Зелье Бабель"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Мазь от ожогов",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Оранжевая травяная паста, используемая для помощи людям, восстанавливающимся от болезней. Нанесение дозы этой пасты дает пользователю +3 на один спасбросок Телосложения, Мудрости или Харизмы на следующие 14 часов.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.pX78ZuQHops2hkSB",
+              "quantity": 1,
+              "name": "Пламенная Лилия"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.n1JTBceJsxjAcYhP",
+              "quantity": 1,
+              "name": "Масло (колба)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hk5heRqtynV4aUvH",
+              "quantity": 1,
+              "name": "Корень Теки"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.nwyLzzrybJdQFU0C",
+              "quantity": 1,
+              "name": "Мазь от ожогов"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Большой антидот",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Мутная жидкость цвета тыквы, это зелье дает питью преимущество на спасброски против урона от яда или состояния отравления в течение 12 часов. В этот период пьющий также не получает урон от яда за время и не может упасть до 0 очков здоровья от урона ядом.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hk5heRqtynV4aUvH",
+              "quantity": 1,
+              "name": "Корень Теки"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.AQwNK4qMHSZ8oHfg",
+              "quantity": 1,
+              "name": "Кислица"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.pP6cwEHiefa1Y8vE",
+              "quantity": 1,
+              "name": "Большой антидот"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/conical-ornate-purple.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Жидкая жизнь",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Это зелье имеет ярко-розовый цвет и совершенно прозрачно, с изображением красного сердца, плавающего в центре. Независимо от угла, с которого вы на него смотрите, сердце всегда выглядит одинаково. Выпив это зелье, вы получаете 2d6+2 временных очков здоровья.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mJLK2z7uAFJEdEbI",
+              "quantity": 1,
+              "name": "Красный Мухомор"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hg1nYQo2P0w4X8zL",
+              "quantity": 1,
+              "name": "Веточки Муруса"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.f6F4AAfVCD2Wk1Nb",
+              "quantity": 1,
+              "name": "Жидкая жизнь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-pink.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Эликсир жизни Мургаксона",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Тот, кто выпивает эту настойку, получает преимущество на спасброски от смерти в течение 24 часов.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.81q3IPEUgth4n2na",
+              "quantity": 1,
+              "name": "Семена Орхидеи Белый Призрак"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.0UpLH6LvRkpECr4U",
+              "quantity": 1,
+              "name": "Эликсир жизни Мургаксона"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/flask-decorated-label-pink.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    },
+    {
+      "name": "Помандер защиты",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Этот шар ароматных специй и духов заполняет область радиусом 15 футов сильным запахом в течение 24 часов после вскрытия. Нежить CR 2 или ниже, которая входит в эту область, должна сделать спасбросок Мудрости DC 15 или быть обращенной, как указано в способности Отвращение Нежити жреца.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.owWwyMULLrQhjZm3",
+              "quantity": 1,
+              "name": "Хагфингер"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.IUxdZsYp22YdSp3s",
+              "quantity": 1,
+              "name": "Помандер защиты"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/vegetable/garlic-lautrec-pink.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье преимущества",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Когда вы выпиваете это зелье, вы получаете преимущество на одну проверку способности, бросок атаки или спасбросок по вашему выбору, который вы сделаете в течение следующего часа. Это зелье имеет форму сверкающего золотого тумана, который двигается и течет как вода.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.5etoSQKqmLKxxrOk",
+              "quantity": 1,
+              "name": "Ивовый Фрукт"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hcsdq4jjnyRca01F",
+              "quantity": 1,
+              "name": "Радужный Гриб"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.AdM6j4VoumfVXVG1",
+              "quantity": 1,
+              "name": "Зелье преимущества"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье исцеления (большое)",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Вы восстанавливаете 4d4 + 4 очков здоровья, выпив это зелье. Красная жидкость зелья мерцает при встряхивании. Оно не приносит пользы нежити или конструкциям.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mJLK2z7uAFJEdEbI",
+              "quantity": "2",
+              "name": "Красный Мухомор"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.5etoSQKqmLKxxrOk",
+              "quantity": 1,
+              "name": "Ивовый Фрукт"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.PILxnKUITWamgWYt",
+              "quantity": 1,
+              "name": "Зелье исцеления (большое)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    },
+    {
+      "name": "Зелье Максимальной Силы",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "В первый раз, когда вы кастуете заклинание, наносящее урон 4 уровня или ниже в течение 1 минуты после употребления зелья, вместо того чтобы бросать кости для определения наносимого урона, вы можете использовать наибольшее возможное число для каждого кубика. Эта светящаяся фиолетовая жидкость пахнет сахаром и сливой, но имеет мутный вкус.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hk5heRqtynV4aUvH",
+              "quantity": 1,
+              "name": "Корень Теки"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.7ONjwCzJqsSYR8tP",
+              "quantity": 1,
+              "name": "Лист Олисубы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.562l3RhNzDHi5glh",
+              "quantity": 1,
+              "name": "Лилия Мечты"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.sJbPHlDfQWUYOACe",
+              "quantity": 1,
+              "name": "Зелье Максимальной Силы"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье Превращения",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Очень необычное зелье, которое меняет свой цвет, прозрачность, а также форму и материал своего контейнера каждый раз, когда никто не смотрит на него. После открытия контейнера оно возвращается в свой первоначальный вид и форму; слабое розовое зелье с подвешенными серебристыми полосками. Выпив это зелье, вы можете использовать заклинание Изменение облика на себя в течение 30 минут без концентрации.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hcsdq4jjnyRca01F",
+              "quantity": 1,
+              "name": "Радужный Гриб"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.7ONjwCzJqsSYR8tP",
+              "quantity": 1,
+              "name": "Лист Олисубы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.sXO3tkdEs7Yq71mu",
+              "quantity": 1,
+              "name": "Зелье Превращения"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Освежающий чай",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Этот теплый напиток снимает один уровень усталости с того, кто его выпивает.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.IMIT0JtrYKjQi8C1",
+              "quantity": 1,
+              "name": "Утренняя Роса"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mPpquEZdKOcKlIRP",
+              "quantity": 1,
+              "name": "Кошачий Язык"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.LUKIJisHtWQyi635",
+              "quantity": 1,
+              "name": "Освежающий чай"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Антидот Тессалотоксина",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Это зелье выглядит так, как будто меняет цвет и текстуру каждый раз, когда вы на него смотрите. Когда вы его выпиваете, оно заканчивает эффект Полиморфии, наложенный Тессалотоксин.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.81q3IPEUgth4n2na",
+              "quantity": 1,
+              "name": "Семена Орхидеи Белый Призрак"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hk5heRqtynV4aUvH",
+              "quantity": 1,
+              "name": "Корень Теки"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.rguu1OrE6wylYPDV",
+              "quantity": 1,
+              "name": "Антидот Тессалотоксина"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-cyan.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

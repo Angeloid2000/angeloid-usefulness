@@ -1,0 +1,532 @@
+{
+  "name": "Подмастерье отравителя",
+  "description": "Содержит рецепты для создания необычных ядов",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Инструменты отравителя",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Порошок ангела",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Очень мелкий, ярко-белый порошок с едва уловимым сладким ароматом, этот порошок следует выдуть в лицо цели, прежде чем он рассеется безвредно в воздухе. Цель должна сделать спасбросок Харизмы (DC 15). При неудаче цель испытывает измененную версию реальности, в которой она воспринимает всех как доверенных друзей и становится крайне внушаемой для ненасильственных форм убеждения, обмана, а также для соблазнения на 1 час. При успешном спасброске цель не испытывает эффекта.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.ppfxJbquy0OY15I9",
+              "quantity": 1,
+              "name": "Ангельская трубка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.562l3RhNzDHi5glh",
+              "quantity": 1,
+              "name": "Лилия Мечты"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.tT7bIzAWSq96ifLg",
+              "quantity": 1,
+              "name": "Порошок ангела"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/materials/bowl-powder-grey.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    },
+    {
+      "name": "Кровь убийцы",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, подвергшееся действию этого яда, должно пройти спасбросок Телосложения (DC 10). При неудаче оно получает 6 (1d12) урона от яда и отравляется на 24 часа. При успешном спасброске существо получает половину урона и не отравляется.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.HlokbzjoiqhZiczN",
+              "quantity": 1,
+              "name": "Яд, базовый (флакон)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.0VLwO08sxzl2oppd",
+              "quantity": 1,
+              "name": "Лунный Охотник"
+            },
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.qKqxnyB30t67Dtjw",
+              "quantity": 1,
+              "name": "Паслен"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.ddQSJX0kIKhcb09R",
+              "quantity": 1,
+              "name": "Кровь убийцы (прием внутрь)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Экстракт из проклятых ягод",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Розовый и пахнущий клубникой, этот яд заставляет того, кто его выпьет, сделать спасбросок Телосложения (DC 14). При неудаче цель отравляется. Пока она отравлена, цель имеет помехи при спасбросках Силы, Выносливости и Ловкости в течение 15 минут. При успешном спасброске цель не испытывает эффекта.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.P8GXYTzT3ujXYzlA",
+              "quantity": 1,
+              "name": "Проклятая Ягода"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.vLOko00qJUmYRcov",
+              "quantity": 1,
+              "name": "Экстракт из проклятых ягод"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-pear-corked-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Черная паста",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Этот яд был специально создан, чтобы напоминать кожаное или обувное средство для полировки. Если предмет одежды обработан этим ядом, он блестит как новый и заставляет существа, которые носят его в течение 12 часов (не обязательно подряд), сделать спасбросок Телосложения (DC 15). При неудаче существо получает 1d8 урона от яда. Пока отравленная одежда не будет снята, существо должно повторять спасбросок каждые 12 часов в течение следующих 3 месяцев.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.XtoN9m7t9NExEcec",
+              "quantity": 1,
+              "name": "Гриб Черная Шляпка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.7XPemwX5JnVHF8fN",
+              "quantity": 1,
+              "name": "Черный Сок"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.3Wn36Nn9zAYPKBXX",
+              "quantity": 1,
+              "name": "Черная паста"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Направленная задержка",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Эта черная жидкость обладает высокой вязкостью, как концентрированный патока. При контакте с кровью через травму или инъекцию цель должна пройти спасбросок Мудрости (DC 15). При неудаче цель испытывает эффект заклинания Замедление и может повторить спасбросок в конце каждого хода. При успешном спасброске скорость передвижения цели уменьшается на 5 футов на 3 хода.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.FRvIPmzcMaENVFxJ",
+              "quantity": 1,
+              "name": "Простые Когти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.8tiJocPYxX5IJuIw",
+              "quantity": 1,
+              "name": "Смертельная Шапка"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.bjFIxjHZNPIFbhsw",
+              "quantity": 1,
+              "name": "Направленная задержка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Паста Лавы",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Хотя эта паста выглядит как обычная желтоватая масса, она далеко не обыденна. После нанесения на кожу или одежду паста заставляет цель сделать спасбросок Телосложения (DC 14). При неудаче цель получает 2d6 урона огнем и становится уязвимой к огненным повреждениям на 1 случай в течение следующих 12 часов. При успешном спасброске цель получает половину урона и не становится уязвимой.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.pX78ZuQHops2hkSB",
+              "quantity": 1,
+              "name": "Пламенная Лилия"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.4E2rs1SRBfTsxo1j",
+              "quantity": 1,
+              "name": "Огненный Горох"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.sNBmGooEyx5TlH54",
+              "quantity": 1,
+              "name": "Паста Лавы"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Злоба",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, подвергшееся действию этого яда, должно пройти спасбросок Телосложения (DC 15), иначе оно отравится на 1 час. Отравленное существо ослеплено.\n\nЭти яды — порошки или газы, которые действуют при вдыхании. Выдувание порошка или выпуск газа воздействует на существа в 5-футовом кубе. Образующийся облак сразу же рассеивается. Задержание дыхания не помогает от ядов, вдыхаемых в таком виде, так как они воздействуют на носовые мембраны, слезные железы и другие части тела.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.IMIT0JtrYKjQi8C1",
+              "quantity": 1,
+              "name": "Утренняя Роса"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.7XPemwX5JnVHF8fN",
+              "quantity": 1,
+              "name": "Черный Сок"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.Qg5yhmYzC9X31GtO",
+              "quantity": 1,
+              "name": "Злоба (Вдыхание)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/mortar-powder-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Бледная Настойка",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, подвергшееся действию этого яда, должно пройти спасбросок Телосложения (DC 16), иначе оно получает 3 (1d6) урона от яда и становится отравленным. Отравленное существо должно повторять спасбросок каждые 24 часа, получая 3 (1d6) урона от яда при неудаче. Пока яд действует, урон от яда нельзя исцелить никакими средствами. После семи успешных спасбросков эффект прекращается, и существо может исцеляться как обычно.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.7XPemwX5JnVHF8fN",
+              "quantity": 1,
+              "name": "Черный Сок"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.8tiJocPYxX5IJuIw",
+              "quantity": 1,
+              "name": "Смертельная Шапка"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.urc90p2EPKItJ6yp",
+              "quantity": 1,
+              "name": "Бледная Настойка (Проглоченная)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Фильтр Любви",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "В следующий раз, когда вы увидите существо в течение 10 минут после употребления этого зелья, вы становитесь очарованным этим существом на 1 час. Если существо принадлежит к виду и полу, к которому вы обычно чувствуете влечение, вы считаете его своей истинной любовью, пока находитесь очарованным. Это розовое, пузырящееся зелье содержит одну легко пропускаемую пузырьковую форму, напоминающую сердце.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.kq1kPFd56PJ6CbuY",
+              "quantity": 1,
+              "name": "Фея Табурет"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.gYlzOemmtqJ4nJdR",
+              "quantity": 1,
+              "name": "Змеиный Яд"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.kS7ZyzLKN907Wx08",
+              "quantity": 1,
+              "name": "Фильтр Любви"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Зелье Яда",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Этот напиток выглядит, пахнет и имеет вкус зелья лечения или другого полезного зелья. Однако на самом деле это яд, замаскированный иллюзией магии. Заклинание 'Опознание' раскрывает его истинную природу. Если вы его выпьете, вы получаете 3d6 урона от яда, и должны пройти спасбросок Телосложения (DC 13), иначе отравитесь. В начале каждого из ваших ходов, пока вы отравлены таким образом, вы получаете 3d6 урона от яда. В конце каждого хода вы можете повторить спасбросок. При успешном спасброске урон от яда на последующих ходах уменьшается на 1d6. Яд заканчивается, когда урон снижается до 0.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.wL3kjmNiGRjphxwK",
+              "quantity": 1,
+              "name": "Зелье исцеления"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.P8GXYTzT3ujXYzlA",
+              "quantity": 1,
+              "name": "Проклятая Ягода"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.YgtFsp788IsNtGGO",
+              "quantity": 1,
+              "name": "Зелье Яда"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Сыворотка правды (Проглоченная)",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, подвергшееся действию этого яда, должно пройти спасбросок Телосложения (DC 12), иначе оно отравится на 1 час. Отравленное существо не может сознательно лгать, как если бы оно находилось под действием заклинания 'Зона Правды'.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.kq1kPFd56PJ6CbuY",
+              "quantity": 1,
+              "name": "Фея Табурет"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.YyKZKto71tF8fOtD",
+              "quantity": 1,
+              "name": "Свежеватель Разума Вонючий Рог"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.33rEjPlUptxFU2JI",
+              "quantity": 1,
+              "name": "Сыворотка правды (Проглоченная)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

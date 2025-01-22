@@ -1,0 +1,405 @@
+{
+  "name": "Ученик травника",
+  "description": "Содержит рецепты изготовления обычных зелий и мазей",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Набор травника",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Антидот",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, выпившее этот флакон жидкости, получает преимущество на спасброски против отравления на 1 час. Не приносит пользы нежити или конструкциям.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.JBB8DymRjaQXbLJ3",
+              "quantity": 1,
+              "name": "Вечноморозная Ягода"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mPpquEZdKOcKlIRP",
+              "quantity": 1,
+              "name": "Кошачий Язык"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.3LBrMjF4ZANW6uCF",
+              "quantity": 1,
+              "name": "Антидот"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье исцеления",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Персонаж, который выпивает волшебную красную жидкость из этого флакона, восстанавливает 2d4 + 2 хитпоинтов. Выпить или применить зелье можно за одно действие.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mJLK2z7uAFJEdEbI",
+              "quantity": 1,
+              "name": "Красный Мухомор"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.wL3kjmNiGRjphxwK",
+              "quantity": 1,
+              "name": "Зелье исцеления"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Мазь муруса",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Эта паста, изготовленная из куста мурооса, известна своей способностью предотвращать солнечные ожоги, а также является огнеупорной. После 1 минуты нанесения четверти пинты бальзама мурооса на кожу вы получаете сопротивление к огненному урону на 1 час.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.pX78ZuQHops2hkSB",
+              "quantity": 1,
+              "name": "Пламенная Лилия"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hg1nYQo2P0w4X8zL",
+              "quantity": 1,
+              "name": "Веточки Муруса"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.5o1H3jfWuOf64ZCh",
+              "quantity": 1,
+              "name": "Мазь муруса"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/bowl-herbs-green.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Перцовые перцы",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Полезный перекус, эти закуски с огненным вкусом и очень хрустящие. Употребление Перца Перца дает потребителю 3 временных хитпоинта.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.4E2rs1SRBfTsxo1j",
+              "quantity": 1,
+              "name": "Огненный Горох"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.LCG4REue24f9356T",
+              "quantity": "6",
+              "name": "Перцовые перцы"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/vegetable/cauliflower-head-white.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Зелье Разговора с растениями",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Прозрачная коричневая жидкость, наполненная вибрирующими зелеными веточками и листьями, которая становится бледно-желтой при открытии. Выпив её, вы получаете способность общаться с растениями в течение 5 минут.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.mPpquEZdKOcKlIRP",
+              "quantity": 1,
+              "name": "Кошачий Язык"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hg1nYQo2P0w4X8zL",
+              "quantity": 1,
+              "name": "Веточки Муруса"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.Yl6RXZcInXmY1kbz",
+              "quantity": 1,
+              "name": "Зелье Разговора с растениями"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-stopper-yellow.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Успокаивающая Мазь",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Липкая мазь с кислым запахом, которая может быть нанесена на раны. Когда вы тратите кубики хитов для восстановления хитпоинтов, используя эту мазь, вы восстанавливаете дополнительные 3 хитпоинта за каждый потраченный кубик хитов. Этот эффект действует в течение 1 часа после нанесения.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.AQwNK4qMHSZ8oHfg",
+              "quantity": 1,
+              "name": "Кислица"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.JjdeWwATcgD1e3d2",
+              "quantity": 1,
+              "name": "Кислотная Роса"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.UOTgRIPXM974Mefn",
+              "quantity": 1,
+              "name": "Успокаивающая Мазь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Освежающее Зелье",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Синее зелье, в котором всегда плавают 2 кубика льда, веточка мяты и 2 ломтика лимона. Оно всегда прохладное на ощупь. Выпив зелье, человек полностью утоляет жажду и избавляется от необходимости пить что-либо в течение 2 дней. Оно особенно ценится в пустынных районах среди путешественников в караванах.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.hg1nYQo2P0w4X8zL",
+              "quantity": 1,
+              "name": "Веточки Муруса"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.sAf5fooOuUlTo1g3",
+              "quantity": 1,
+              "name": "Жаколистник"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.Hf6m6QIhjlWO4Aal",
+              "quantity": 1,
+              "name": "Освежающее Зелье"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    },
+    {
+      "name": "Масло Ивовой Тени",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Темно-синее масло можно извлечь из плодов растения Виллоушейд. Существо может использовать своё действие, чтобы нанести масло на другое существо, которое было окаменено менее чем на 1 минуту. Это снимает состояние окаменения с существа в начале его следующего хода.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.5etoSQKqmLKxxrOk",
+              "quantity": 1,
+              "name": "Ивовый Фрукт"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.NsUbKTdqpynBix4B",
+              "quantity": 1,
+              "name": "Масло Ивовой Тени"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}
