@@ -1,0 +1,114 @@
+{
+  "id": "angeloid-usefulness",
+  "title": "Полезности",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Angeloid",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "index.js"
+  ],
+  "packFolders": [
+    {
+      "name": "Полезности | Angeloid",
+      "sorting": "m",
+      "color": "#166ddf",
+      "packs": [
+        "types-of-terrain",
+        "macros",
+        "harvesting-hunting-looting",
+        "craft",
+        "books",
+        "roll-tables",
+        "journals"
+      ],
+      "folders": []
+    }
+  ],
+  "packs": [
+    {
+      "name": "types-of-terrain",
+      "label": "Виды местности",
+      "path": "packs/types-of-terrain",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Макросы",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "harvesting-hunting-looting",
+      "label": "Сбор, Охота, Лут",
+      "path": "packs/harvesting-hunting-looting",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "craft",
+      "label": "Крафт",
+      "path": "packs/craft",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "books",
+      "label": "Книги",
+      "path": "packs/books",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "roll-tables",
+      "label": "Случайные таблицы",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Журналы",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
