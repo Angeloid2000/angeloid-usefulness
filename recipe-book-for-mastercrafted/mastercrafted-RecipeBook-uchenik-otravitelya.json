@@ -1,0 +1,160 @@
+{
+  "name": "Ученик отравителя",
+  "description": "Содержит рецепты для создания обычных ядов",
+  "ownership": {
+    "bh2kPrMpJWN6B0n8": "2",
+    "ZE8qqvP7GBdF4Hit": "2",
+    "DRYXVVGlOPRC9yDm": "2",
+    "RjHAaxMQhNqyjrGM": "2",
+    "iuiPVaoQ6MJWTop2": "2"
+  },
+  "tools": "Инструменты отравителя",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Яд, базовый (флакон)",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Вы можете использовать яд в этом флаконе, чтобы намазать одно оружие, наносящее рубящий или колющий урон, или до трех единиц боеприпасов. Нанесение яда требует действия. Существо, пораженное ядовитым оружием или боеприпасом, должно сделать спасбросок Телосложения (DC 10) или получить 1d4 урона от яда. После применения яд сохраняет свою активность в течение 1 минуты, прежде чем высохнуть.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.qKqxnyB30t67Dtjw",
+              "quantity": 1,
+              "name": "Паслен"
+            },
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.k4bph8IZwFEpdkPL",
+              "quantity": 1,
+              "name": "Изумрудный туманник"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.HlokbzjoiqhZiczN",
+              "quantity": 1,
+              "name": "Яд, базовый (флакон)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    },
+    {
+      "name": "Дыхание Бизы",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, подвергшееся действию этого яда, должно успешно пройти спасбросок Телосложения (DC 16), иначе оно отравится на 1 минуту. Отравленное существо должно использовать свое действие, чтобы совершить рукопашную атаку против случайно выбранного существа в пределах своей досягаемости. Если в пределах досягаемости нет другого существа, отравленное существо не совершает действий в свой ход. Существо может повторить спасбросок в конце каждого своего хода, прекращая эффект при успехе.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.ppfxJbquy0OY15I9",
+              "quantity": 1,
+              "name": "Ангельская трубка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.lswhyl5yqtb12nsE",
+              "quantity": 1,
+              "name": "Морозный Лишайник"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.40guHxhBx1EhAUKy",
+              "quantity": 1,
+              "name": "Дыхание Бизы (вдыхание)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-blue.webp",
+      "sound": "",
+      "ownership": {
+        "bh2kPrMpJWN6B0n8": "0",
+        "ZE8qqvP7GBdF4Hit": "0",
+        "DRYXVVGlOPRC9yDm": "0",
+        "RjHAaxMQhNqyjrGM": "0",
+        "iuiPVaoQ6MJWTop2": "0"
+      }
+    },
+    {
+      "name": "Жидкость Паранойи",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Существо, которое проглотит этот яд, получает состояние Напугано, причем источником страха становится следующее гуманоидное существо, которое оно увидит в течение 5 минут после проглатывания. Существо должно сделать спасбросок Мудрости (DC 15), при неудаче страх длится 1 час или вдвое меньше на успех.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.harvesting-hunting-looting.Item.0VLwO08sxzl2oppd",
+              "quantity": 1,
+              "name": "Лунный Охотник"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.angeloid-usefulness.craft.Item.dycUoRztAv20izG9",
+              "quantity": 1,
+              "name": "Жидкость Паранойи"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+      "sound": "",
+      "ownership": {
+        "rqEOxzm9pWZpMhH4": "0",
+        "QAdDWUaUNK09Iq3x": "0",
+        "GOvXOrkQSzey7yZ5": "0",
+        "56XvGn6U8R9S2vlW": "0",
+        "HHjDcylTiWQFDEbS": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}
